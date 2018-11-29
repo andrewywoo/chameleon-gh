@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/chameleon-gh/static/css/main.03954664.chunk.css"
   },
   {
-    "revision": "f19e5f71b61ece00dc8a5e618a3e7620",
+    "revision": "f0e5f722b45075a7bbf071cd29060a7b",
     "url": "/chameleon-gh/index.html"
   }
 ];
