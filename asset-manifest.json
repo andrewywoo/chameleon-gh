@@ -1,15 +1,15 @@
 {
-  "main.css": "/chameleon-gh/static/css/main.b80cf7e0.chunk.css",
-  "main.js": "/chameleon-gh/static/js/main.a2e82766.chunk.js",
-  "main.js.map": "/chameleon-gh/static/js/main.a2e82766.chunk.js.map",
-  "static/js/1.23d4deeb.chunk.js": "/chameleon-gh/static/js/1.23d4deeb.chunk.js",
-  "static/js/1.23d4deeb.chunk.js.map": "/chameleon-gh/static/js/1.23d4deeb.chunk.js.map",
+  "main.css": "/chameleon-gh/static/css/main.0c77fd97.chunk.css",
+  "main.js": "/chameleon-gh/static/js/main.ba1e06a8.chunk.js",
+  "main.js.map": "/chameleon-gh/static/js/main.ba1e06a8.chunk.js.map",
+  "static/js/1.0e09a315.chunk.js": "/chameleon-gh/static/js/1.0e09a315.chunk.js",
+  "static/js/1.0e09a315.chunk.js.map": "/chameleon-gh/static/js/1.0e09a315.chunk.js.map",
   "runtime~main.js": "/chameleon-gh/static/js/runtime~main.86d52806.js",
   "runtime~main.js.map": "/chameleon-gh/static/js/runtime~main.86d52806.js.map",
   "static/media/NavBar.module.css": "/chameleon-gh/static/media/chameleon-nav.dc17fd84.jpg",
   "static/media/profilepic.jpg": "/chameleon-gh/static/media/profilepic.c4c65f3b.jpg",
-  "static/css/main.b80cf7e0.chunk.css.map": "/chameleon-gh/static/css/main.b80cf7e0.chunk.css.map",
+  "static/css/main.0c77fd97.chunk.css.map": "/chameleon-gh/static/css/main.0c77fd97.chunk.css.map",
   "index.html": "/chameleon-gh/index.html",
-  "precache-manifest.ef81df0cb944686d45af112780ed9ae3.js": "/chameleon-gh/precache-manifest.ef81df0cb944686d45af112780ed9ae3.js",
+  "precache-manifest.4391a2cf5b7014539fd8b719e7fe8dd8.js": "/chameleon-gh/precache-manifest.4391a2cf5b7014539fd8b719e7fe8dd8.js",
   "service-worker.js": "/chameleon-gh/service-worker.js"
 }
