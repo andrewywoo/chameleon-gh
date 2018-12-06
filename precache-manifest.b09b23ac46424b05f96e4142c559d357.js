@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0a911669068e3e8ff0bd",
-    "url": "/chameleon-gh/static/css/main.363f4c02.chunk.css"
+    "revision": "6246e0f7b3708c674d8d",
+    "url": "/chameleon-gh/static/css/main.290cef5e.chunk.css"
   },
   {
-    "revision": "0a911669068e3e8ff0bd",
-    "url": "/chameleon-gh/static/js/main.0a911669.chunk.js"
+    "revision": "6246e0f7b3708c674d8d",
+    "url": "/chameleon-gh/static/js/main.6246e0f7.chunk.js"
   },
   {
     "revision": "0e09a315032b72c7064c",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/chameleon-gh/static/media/profilepic.c4c65f3b.jpg"
   },
   {
-    "revision": "475167c940397c1518aaa26f728efdc2",
+    "revision": "bba1fd4345591690012e61e30ca0acb7",
     "url": "/chameleon-gh/index.html"
   }
 ];
